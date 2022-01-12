@@ -1,5 +1,4 @@
-# Teste HackerRank Meli
-![Teste HackerRank](https://http2.mlstatic.com/frontend-assets/ui-navigation/5.18.4/mercadolibre/logo-pt__large_plus.png)
+# Teste HackerRank 
 
 Complete a seguinte função para que a mesma devolva todos os possíveis números  
 de 4 dígitos, onde cada um seja menor ou igual a ,  
